@@ -1,4 +1,4 @@
-# Mensagem whatsapp via python
+# Cartonizando fotos
 
 Script para transformar uma imagem em um desenho cartozinado
 ## Instalação
